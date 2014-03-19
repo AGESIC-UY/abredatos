@@ -1,0 +1,8 @@
+ 
+Version 1.0.1 (12/6/2013)
+- Establecimiento de charset en los CSV y metadatos (por defecto ISO-8859-1)
+- Eliminación de tags HTML en los contenidos a incluir en los CSV
+- Eliminación de retornos de carro (\n \r y \n\r) en los datos extraidos
+
+Version 1.0 (10/6/2013)
+- Lanzamiento inicial

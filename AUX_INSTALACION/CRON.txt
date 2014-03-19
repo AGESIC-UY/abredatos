@@ -1,0 +1,6 @@
+
+
+INFORMACION SOBRE CRON:   http://es.wikipedia.org/wiki/Cron_%28Unix%29
+
+
+*/10 * * * * wget -O /dev/null http://datos.municipiomaldonado.gub.uy/run?secret=XXXXXX  

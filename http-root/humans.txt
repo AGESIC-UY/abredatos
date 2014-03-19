@@ -1,0 +1,14 @@
+         ____
+        / __/________  ___        ____ _____ _   __
+       / /_ / ___/ _ \/ _ \______/ __ `/ __ \ | / /
+      / __// /  /  __/  __/_____/ /_/ / /_/ / |/ /
+     /_/  /_/   \___/\___/      \__, /\____/|___/   > http://free-gov.org
+                               /____/
+/* TEAM */
+Creator: Free-gov Initiative
+Contact: http://free-gov.org/contact_free-gov
+
+/* SITE */
+Language: Spanish (español) es_ES
+Standars: HTML5 CSS3, JavaScript
+Software: Free-gov free e-Government platform
